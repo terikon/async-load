@@ -26,9 +26,7 @@
       "name": "Pieter Vanderwerff"
     }
   ],
-  "main": [
-    "load.js"
-  ],
+  "main": "load.js",
   "devDependencies": {
     "buster": "~0.6",
     "buster-amd": "~0.3.0",
